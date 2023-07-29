@@ -1,4 +1,7 @@
 /* General styles */
+*{
+  width: "100%";
+}
 body {
   background-color: #f9f5f5;
   font-family: Arial, sans-serif;
